@@ -1,5 +1,3 @@
-import copy
-
 def print_matrix(array):
     for a in array:
         print a
