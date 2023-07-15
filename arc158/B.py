@@ -10,7 +10,7 @@ v = sorted(map(int, input().split()))
 
 def get_min_max(vec):
     if len(vec) < 6:
-        return vec
+        return vecｔ
     return vec[:3] + vec[-3:]
 
 
