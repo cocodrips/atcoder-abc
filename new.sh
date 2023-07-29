@@ -1,5 +1,5 @@
 contest=$1
-mkdir $contest
+mkdir -p $contest
 touch $contest/A.py
 touch $contest/B.py
 touch $contest/C.py

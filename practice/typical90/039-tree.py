@@ -1,6 +1,6 @@
 import collections
 import sys
-sys.setrecursionlimit(10 ** 5 + 10)
+sys.setrecursionlimit(10 ** 6)
 
 N = int(input())
 connections = collections.defaultdict(list)
